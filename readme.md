@@ -23,6 +23,9 @@ Led the end-to-end website redesign of [HSBC.ca](https://www.hsbc.ca), managing 
 - Reduced page load times and improved SEO structure.
 - Managed vendor releases, QA testing, and internal change approvals.
 
+**Project Details:**
+https://github.com/huiherman/hsbc-canada-website-redesign
+
 ---
 
 ## 💼 Wealth Compass Product Commercialization  
