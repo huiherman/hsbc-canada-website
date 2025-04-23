@@ -29,7 +29,7 @@ Key Impact:
 * Increased digital onboarding completion rates.
 * Worked with AML, legal, and cybersecurity teams to ensure compliance.
 
-📌 Summary
+Summary
 These projects reflect my strengths in:
 * Leading cross-functional teams across UX, IT, and compliance.
 * Delivering digital solutions aligned with business goals.
